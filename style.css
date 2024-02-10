@@ -139,3 +139,14 @@
 .get-started{
     border: 1px solid white;
 }
+
+/* -------------------------------------------About Section---------------------------------- */
+.about{
+  background-color: #4d4d4d;
+  min-height: 100vh;
+}
+
+.vision-mission-values{
+  background-image: url(./assets/images/vision-mission-values.png);
+  background-size: cover;
+}
